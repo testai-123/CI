@@ -1,3 +1,8 @@
+'''
+Optimization of genetic algorithm parameter in hybrid genetic algorithm-neural network
+modelling: Application to spray drying of coconut milk.
+'''
+
 !pip install numpy
 !pip install scikit-learn
 !pip install deap

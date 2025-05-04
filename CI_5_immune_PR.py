@@ -1,3 +1,8 @@
+'''
+To apply the artificial immune pattern recognition to perform a task of structure damage
+Classification.
+'''
+
 import numpy as np
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
